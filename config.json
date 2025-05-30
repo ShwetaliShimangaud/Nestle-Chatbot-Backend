@@ -8,5 +8,6 @@
     "BLOB_NAME" : "embeddings/embeddings.json",
     "API_ENDPOINT":"349104.northamerica-northeast1-986893157554.vdb.vertexai.goog",
     "INDEX_ENDPOINT":"projects/986893157554/locations/northamerica-northeast1/indexEndpoints/6946063553405124608",
-    "LLM" : "gemini-2.0-flash"
+    "LLM" : "gemini-2.0-flash",
+    "GOOGLE_APPLICATION_CREDENTIALS" : "nestle-chatbot-461219-72eff7dc9a4f.json"
 }

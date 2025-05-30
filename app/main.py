@@ -23,7 +23,7 @@ with open("config.json", "r") as f:
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     # This runs once at startup
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "nestle-chatbot-461219-7cab46b1a1f7.json"
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = config["GOOGLE_APPLICATION_CREDENTIALS"]
 
     app.state.model = SentenceTransformer("all-MiniLM-L6-v2")
     app.state.nlp = spacy.load("en_core_web_trf")
