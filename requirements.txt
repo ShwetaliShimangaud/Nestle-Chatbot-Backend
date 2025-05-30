@@ -1,4 +1,8 @@
 fastapi
 uvicorn[standard]
 python-dotenv
-openai
+neo4j
+blis==0.7.11
+spacy==3.7.4
+sentence_transformers
+google-cloud-aiplatform

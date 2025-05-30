@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nestle-chatbot-461219",
+  "private_key_id": "7cab46b1a1f7a218066f726334fc9fad89145bc6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDGPsSA8XioqL+T\nFg0T2LngBBiVAg//Z6S9DcSgdW4b/6hxhQMS6ISLiN3ybSBC9JVypTXw81iKhlE6\nwIEoOfhgtW72glTXwuuivkogVKTu7paNW7fWxxs/xQMq0dEjMFPlmAEi9M+Q6zaD\nzUyvt6hDYB8aVhRcs7MA7Thxb1Ab/ySmsufKtKn+cIzjOSvfYg9/YvwzoBnDVW8k\nFbzroVNMTqGF/bDNmYxFZbenzfrDXT8S3idZbSB/4G0OhLvDhUMs8aWE514aoyyd\nMKzJfrkPauspNjGD5/0LlLjOjf06QzmuR8ad2SLRmoIR1TKYblC6o0eZjTVGNQDx\ndiCm0F91AgMBAAECggEAJBXQTH1HvoGK75HTuxFX0i5EsDjiIxYhTzVWnXOKoaeR\naGpzAwnWeJSm+8X/2ZguLOJkNXICI6Lr3cMlL2aP7sCPzGiwW17UZ/j1wrlNlV1S\nA7SWe86dx+eLWku7Ywmct93JlSyVLLaX43lm9FQ8mVkBiFhzV+Vw16IWhFVj8lhW\nde2VvYQiFF/nbwNH3rPNtMXq3bgbRp8CTI2JL5Hhzqi0Kz9TGF5u74Lt7NSjsGzs\nrVzOkyWDJiYBORsvr/J3F4mIWPLMOF1ptFQTml0p7AQXyiL3JuIG604/u/veQlx1\ncyKaaOd0BOMHgOawUMM6sRAMcdoumVQeCsys8Fg0CQKBgQDztjh4zr02D4FwiM3l\nepg7ltvAK/B9vrNjU1Nxyo3Yk+UlVK+sO7xoOpGAltxy7fAEVPllL5C55q+gQhxN\nABY6vSz/KnIPRvF0RkX31c8LTuum58OvxBCUq19vDIumQXrBibpmPIhFc03XRWcO\nr9uRJoYui1q4pLtnchYSwHDUvQKBgQDQPax6y7TDqXKGOMluv9P/D/wjsm0yWEnD\nE3GSjPrr1Dqp1Vly16wQ+JXrIri51tGyas/lPDvsSNS1MLPY14yPldnzgd8bVJyI\nR8VXYgFyA7sFOR7qHKbHT/x7pwKsKZrdpVkKULK6it19yxnYvxMD0IzZlE7QnRpw\nSoJxp9YNGQKBgF5/1b3iTDPeJ06/fTbyJn1UrbkCUKoxe9WTxdNlu0KzdjLXd5bN\nQu0XaLv3w1s9L8g+OsYlf3TWIlt9xwOEeRolqID4sGmEFLQFW7QRz8qOu4lobNSG\nrfc3zDV/I9c/pJ3PDdv+tMhZQWGro55qSjUqPvVlS7Q1DAW8kxqKTDXxAoGBAKH/\n2LaO0smEgPu6IbpusVWz8csze4+272s7LRd9ZZchO6Hzv+p/rfRl7vtFv7+TRv8t\n6R3EhjmDTzbF9KO0zDzHrw6o8hAo+r1qWDNqowU3sb6WeV5Xe8eCikEH5CRbGYdk\noqhLrz8/2J+L6UedHgXRsEF0Bvxzu6Wv0Vrp3rPBAoGAehyrH2plu3xt43dnc500\nBClnWDX+jnZ+5kz9Rnafof79Oi6qttyvXnU4Sx5Qhn1c91WZTsL5BD5GMpfxXK8V\nVzMx/1BA8ziVS6D6zeMqruX9H258OpVSErqhqlyZtxt5mp3m+SMExlYrnyTHjMg8\ndlV24K06DcmUf+rpQ/g8Ipg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nestle-chatbot-service@nestle-chatbot-461219.iam.gserviceaccount.com",
+  "client_id": "112709751707902935124",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nestle-chatbot-service%40nestle-chatbot-461219.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

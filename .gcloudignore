@@ -1,0 +1,23 @@
+# Ignore the scraped_data directory
+scraped_data/
+
+# Byte-compiled / cache files
+# __pycache__/
+# *.py[cod]
+# *.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# Docker-related files (optional to exclude local ones)
+# Dockerfile
+# docker-compose.yml
+
+# Git
+.git/
+.gitignore
+
+# OS-generated files
+# .DS_Store
+# Thumbs.db
